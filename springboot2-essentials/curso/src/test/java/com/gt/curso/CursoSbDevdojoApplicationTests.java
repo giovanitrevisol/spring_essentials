@@ -1,10 +1,10 @@
-package com.gt.curso_spring;
+package com.gt.curso;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CursoSpringApplicationTests {
+class CursoSbDevdojoApplicationTests {
 
 	@Test
 	void contextLoads() {
