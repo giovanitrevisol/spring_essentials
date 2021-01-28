@@ -1,10 +1,10 @@
-package academy.gt.springboot2;
+package com.gt.curso_spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Springboot2EssentialsApplicationTests {
+class CursoSpringApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,12 @@
-package academy.gt.springboot2;
+package com.gt.curso_spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Springboot2EssentialsApplication {
+public class CursoSpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Springboot2EssentialsApplication.class, args);
+		SpringApplication.run(CursoSpringApplication.class, args);
 	}
-
 }
